@@ -26,4 +26,4 @@ while True:
 )
     sys.stdout.write(output)
     sys.stdout.flush()
-    time.sleep(30)
+    time.sleep(15)
